@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Ryan">
+  <a href="https://github.com/Ryan1234w21">
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=Ryan1234w21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan1234w21&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
